@@ -20,7 +20,7 @@ const Newsletter = () => {
               Notify me
             </button>
           </div>
-          <p>We care about the protection of your data/Read our <span className="text-green-400">Privacy Policy.</span></p>
+          <p>We care about the protection of your data.Read our <span className="text-green-400">Privacy Policy.</span></p>
         </div>        
       </div>
     </div>
